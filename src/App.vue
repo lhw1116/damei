@@ -1,9 +1,12 @@
 <template>
   <div id="app">
     <div class="nav">
+    <Affix>
       <nav-header></nav-header>
+    </Affix>
     </div>
     <router-view />
+    <BackTop></BackTop>
   </div>
 </template>
 

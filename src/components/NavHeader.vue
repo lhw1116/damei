@@ -69,10 +69,10 @@
   margin-right: auto;
   margin-left: auto;
   .menu {
-      margin-left: 100px;
+      margin-left: 150px;
   }
   .search {
-      margin-right: 100px;
+      margin-right: 150px;
   }  
 }
 </style>
